@@ -1,4 +1,4 @@
-# Landing 1 (Grid Layout)
+# Grid-Layout (Landing page)
 
 Написан по макету. Вижу несколько проблем, которые скоро будут устранены.
 
